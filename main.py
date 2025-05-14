@@ -22,7 +22,6 @@ def main():
     character_count = char_count(full_txt)
     sorted_char_count = sort_string(character_count)
     
-    print(f"{character_count}")
     print()
     print("============ BOOKBOT ============")
     print(f"Analyzing book found at {book_txt}...")
